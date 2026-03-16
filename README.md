@@ -47,6 +47,7 @@ A robust state machine logic walking the patient through a standard heart exam (
 
 ## Architecture
 
+![Architecture](stezio-techstack.png)
 
 ```text
 ┌─────────────────┐  Camera / CV   ┌─────────────────┐  WebSocket ┌──────────────┐
